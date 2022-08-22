@@ -6,13 +6,13 @@
     • Back-end development
 - 🌱 I’m currently learning ...
     • HTML 
-    • CSS (SASS and Bootstrap)
-    • JavaScript (React and React Native)
-    • Python
+    • CSS (SASS, Bootstrap, Tailwind CSS)
+    • JavaScript (React, React Native, Redux, Node, Next and Nest)
+    • Python (Flask)
     • Kotlin
-    • Flask
+    
 - 📫 How to reach me ...
-    • leticiaribeirooficial79@gmail.com
+    • leticiaribeirocontact@gmail.com
     • https://www.linkedin.com/in/maria-l-18a856211 
     
 <div align="center">
