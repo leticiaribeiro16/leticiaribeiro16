@@ -8,8 +8,8 @@
     • HTML 
     • CSS (SASS, Bootstrap, Tailwind CSS)
     • JavaScript (React, React Native, Redux, Node, Next and Nest)
-    • Python (Flask)
-    • Kotlin
+    • Python (Flask) 
+    • NodeJS
     
 - 📫 How to reach me ...
     • leticiaribeirocontact@gmail.com
