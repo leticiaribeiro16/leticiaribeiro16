@@ -1,19 +1,18 @@
 - 👋 Hey, I’m Letícia Ribeiro, 
      I am a student at the Federal Institute of Science and Technology of Rio Grande do Norte, in the Computing for Internet course!
 - 👀 I’m interested in ...
-    • Mobile development
     • Front-end development
     • Back-end development
 - 🌱 I’m currently learning ...
-    • HTML 
-    • CSS (SASS, Bootstrap, Tailwind CSS)
-    • JavaScript (React, React Native, Redux, Node, Next and Nest)
+    • Java
+    • JavaScript (ExpressJS and ReactJS)
     • Python (Flask) 
-    • NodeJS
     
 - 📫 How to reach me ...
     • leticiaribeirocontact@gmail.com
-    • https://www.linkedin.com/in/maria-l-18a856211 
+    • https://www.linkedin.com/in/ribezaz
+    • ribezaz.netlify.app
+
     
 <div align="center">
   <a href="https://github.com/leticiaribeiro16">
