@@ -9,9 +9,9 @@
     • Python (Flask) 
     
 - 📫 How to reach me ...
-    • leticiaribeirocontact@gmail.com
-    • https://www.linkedin.com/in/ribezaz
-    • ribezaz.netlify.app
+    • leticiaribeirocontact@gmail.com <br>
+    • https://www.linkedin.com/in/ribezaz <br>
+    • https://ribezaz.vercel.app/ <br>
 
     
 <div align="center">
