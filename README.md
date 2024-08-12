@@ -1,17 +1,16 @@
 - 👋 Hey, I’m Letícia Ribeiro, 
-     I am a student at the Federal Institute of Science and Technology of Rio Grande do Norte, in the Computing for Internet course!
-- 👀 I’m interested in ...
-    • Front-end development
+     I am a student at the Federal University of Rio Grande do Norte, in the Information Technology course!
+- 👀 <b>I’m interested in ... </b> <br>
+    • Data Analytics <br>
     • Back-end development
-- 🌱 I’m currently learning ...
-    • Java
-    • JavaScript (ExpressJS and ReactJS)
-    • Python (Flask) 
+- 🌱 <b>I’m currently learning ... </b> <br>
+    • Spring Boot <br>
+    • NextJS
     
-- 📫 How to reach me ...
+- 📫 <b> How to reach me ... </b> <br>
     • leticiaribeirocontact@gmail.com <br>
     • https://www.linkedin.com/in/ribezaz <br>
-    • https://ribezaz.vercel.app/ <br>
+    • https://ribezaz-ivory.vercel.app/ <br>
 
     
 <div align="center">
@@ -27,7 +26,6 @@
   <img align="center" alt="le-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="le-flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
   <img align="center" alt="le-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>                   
-  <img align="right" alt="le-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/965580923099807758/979830276945498142/download20220504232704.png">
 </div>
      
 ##
@@ -36,3 +34,6 @@
   <a href = "mailto:leticiaribeirocontact@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maria-l-18a856211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
+
+
+
