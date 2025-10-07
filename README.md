@@ -10,7 +10,7 @@
 - 📫 <b> How to reach me ... </b> <br>
     • leticiaribeirocontact@gmail.com <br>
     • https://www.linkedin.com/in/ribezaz <br>
-    • https://ribezaz-ivory.vercel.app/ <br>
+    • [https://ribezaz-ivory.vercel.app/ ](https://ribezazz.netlify.app/)<br>
 
     
 <div align="center">
